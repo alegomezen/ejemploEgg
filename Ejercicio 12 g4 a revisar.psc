@@ -1,7 +1,7 @@
 Algoritmo EjerG4
 	Algoritmo sin_titulo
 		definir matriz, n, i, j, suma, suma2, suma3, suma4, aux1, aux2, cont como entero
-		
+		definir matriz2 como caracter
 		escribir "Ingrese el tamaño de la matriz (no debe ser mayor a 10) "
 		leer n
 		
